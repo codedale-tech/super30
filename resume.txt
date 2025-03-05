@@ -2,3 +2,4 @@ working  =>   staging area =>  local repository  => online repository  = this is
 		add				commit				push
 	restore --staged		reset HEAD~1			force push
 											pull
+
