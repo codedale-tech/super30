@@ -1,2 +1,7 @@
-nihar
-vasant
+
+working  =>   staging area =>  local repository  => online repository  = this is a simple git workflow
+		add				commit				push
+	restore --staged		reset HEAD~1			force push
+											pull
+
+
